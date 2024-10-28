@@ -72,6 +72,7 @@
       "macfuse"
       "mounty"
       "transmission"
+      "obsidian"
       
       # "utm"
       # "monitorcontrol"
@@ -94,6 +95,7 @@
           "/Applications/Google Chrome.app/"
           "/Applications/Visual Studio Code.app/"
           "/System/Applications/Utilities/Terminal.app"
+          "/Applications/Obsidian.app"
         ];
       };
       finder = {
